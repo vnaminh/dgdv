@@ -1,0 +1,73 @@
+{
+    "hello" : "Hi",
+    "logout" : "Sign out",
+    "dashboard" : "Dashboard",
+    "tro_ve" : "Back",
+    "luu" : "Save",
+    "stt" : "Order",
+    "chi_tiet" : "Detail",
+    "thao_tac" : "Action",
+    "cap_nhat" : "Update",
+    "xoa" : "Delete",
+    "them_moi" : "Add new",
+    "them_dong" : "Add row",
+    "danh_sach" : "List",
+
+    "dm_muc_do_cong_viec"  : "COMPLEXITY",
+    "dm_muc_do_cong_viec_ten_vn"  : "Complexity",
+    "dm_muc_do_cong_viec_diem"    : "Point",
+    "dm_muc_do_cong_viec_su_dung" : "Status",
+
+
+    "dm_tien_do_thuc_hien"  : "IMPLEMENTATION PROGRESS",
+    "dm_tien_do_thuc_hien_ten_vn"  : "Implementation progress",
+    "dm_tien_do_thuc_hien_diem"    : "Point",
+    "dm_tien_do_thuc_hien_su_dung" : "Status",
+
+
+    "dm_chat_luong_hoan_thanh"  : "QUALITY",
+    "dm_chat_luong_hoan_thanh_ten_vn"  : "Quality",
+    "dm_chat_luong_hoan_thanh_diem"    : "Point",
+    "dm_chat_luong_hoan_thanh_su_dung" : "Status",
+
+
+    "dm_muc_do_uu_tien"  : "PRIORITY",
+    "dm_muc_do_uu_tien_ten_vn"  : "Priority",
+    "dm_muc_do_uu_tien_diem"    : "Point",
+    "dm_muc_do_uu_tien_su_dung" : "Status",
+
+
+    "dm_tieu_chi_danh_gia_khac"  : "CRITERIAS",
+    "dm_tieu_chi_danh_gia_khac_ten_vn"  : "Criterias",
+    "dm_tieu_chi_danh_gia_khac_diem"    : "Point",
+    "dm_tieu_chi_danh_gia_khac_su_dung" : "Status",
+
+
+    "dm_vai_tro"  : "ROLE",
+    "dm_vai_tro_ten_vn"  : "Role",
+
+
+    "dm_thong_tin_diem_danh_gia"  : "POINT INFORMATION",
+    "dm_thong_tin_diem_danh_gia_ma"  : "Point code",
+    "dm_tieu_chi_danh_gia_khac_ten_vn"  : "Point name",
+    "dm_thong_tin_diem_danh_gia_muc_diem_cong_toi_da"    : "Maximum point",
+    "dm_thong_tin_diem_danh_gia_su_dung" : "Status",
+    "dm_thong_tin_diem_danh_gia_phan_loai" : "Type",
+
+
+    "dm_loai_diem_danh_gia"  : "POINT TYPE",
+    "dm_loai_diem_danh_gia_ten_vn"  : "Point type name",
+
+
+    "ql_dang_ky_trong_so"  : "ĐĂNG KÝ TRỌNG SỐ",
+    "ql_dang_ky_trong_so_loai_danh_gia"  : "Loại đánh giá",
+    "name"  : "Loại công việc",
+    "ql_dang_ky_trong_so_diem"    : "Điểm",
+    "ql_dang_ky_trong_so_khong_danh_gia" : "Không đánh giá",
+
+
+    "user"          : "USER LIST",
+    "user_name"     : "User name",
+    "user_code"     : "User code",
+    "user_active"   : "Active"
+}

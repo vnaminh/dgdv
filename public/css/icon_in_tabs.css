@@ -1,0 +1,18 @@
+/* Icon tren thanh tab */
+.dadanhgia {
+    font-size: 16px;
+    color: rgb(30, 255, 30);
+}
+
+.dadanhgia::after {
+    content: "\f00c";
+}
+
+.chuadanhgia {
+    font-size: 16px;
+    color: rgb(255, 30, 30);
+}
+
+.chuadanhgia::after {
+    content: "\f00d";
+}

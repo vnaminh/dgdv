@@ -1,0 +1,24 @@
+#page {
+    display: grid;
+    grid-template-areas: 'leftcol dragbar rightcol';
+    grid-template-rows: 10fr;
+    grid-template-columns: 9.5fr 6px 2.5fr;
+}
+/*****************************/
+
+#leftcol {
+    overflow: auto;
+    grid-area: leftcol;
+}
+
+#dragbar {
+    background-color: #e6e4e4;
+    grid-area: dragbar;
+    cursor: ew-resize;
+}
+
+#rightcol {
+    overflow: auto;
+    grid-area: rightcol;
+    padding-left: 15px;
+}

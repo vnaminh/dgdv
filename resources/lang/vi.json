@@ -1,0 +1,108 @@
+{
+    "hello" : "Xin chào",
+    "logout" : "Đăng xuất",
+    "dashboard" : "Trang chủ",
+    "tro_ve" : "Trở về",
+    "luu" : "Lưu",
+    "stt" : "STT",
+    "chi_tiet" : "Chi tiết",
+    "thao_tac" : "Thao tác",
+    "cap_nhat" : "Cập nhật",
+    "sao_chep" : "Sao chép",
+    "cap_nhat_dangkytrongso" : "Cập nhật trọng số",
+    "xoa" : "Xóa",
+    "them_moi" : "Thêm mới",
+    "them_dong" : "Thêm dòng",
+    "danh_sach" : "Danh sách",
+    "chon" : "Chọn",
+    "them_vao_danh_sach" : "Thêm vào danh sách",
+    "thang" : "Tháng",
+    "nam" : "Năm",
+    "search" : "Tìm kiếm",
+    "cap_nhat_file" : "Cập nhật từ Excel",
+    "xem" : "Xem",
+    "danh_gia" : "Đánh giá năng suất",
+
+
+    "dm_muc_do_cong_viec"  : "MỨC ĐỘ CÔNG VIỆC",
+    "dm_muc_do_cong_viec_ten_vn"  : "Mức độ công việc",
+    "dm_muc_do_cong_viec_diem"    : "Điểm",
+    "dm_muc_do_cong_viec_su_dung" : "Trạng thái sử dụng",
+
+
+    "dm_tien_do_thuc_hien"  : "TIẾN ĐỘ THỰC HIỆN",
+    "dm_tien_do_thuc_hien_ten_vn"  : "Tiến độ thực hiện",
+    "dm_tien_do_thuc_hien_diem"    : "Điểm",
+    "dm_tien_do_thuc_hien_su_dung" : "Trạng thái sử dụng",
+
+
+    "dm_chat_luong_hoan_thanh"  : "CHẤT LƯỢNG HOÀN THÀNH",
+    "dm_chat_luong_hoan_thanh_ten_vn"  : "Chất lượng hoàn thành",
+    "dm_chat_luong_hoan_thanh_diem"    : "Điểm",
+    "dm_chat_luong_hoan_thanh_su_dung" : "Trạng thái sử dụng",
+
+
+    "dm_muc_do_uu_tien"  : "MỨC ĐỘ ƯU TIÊN",
+    "dm_muc_do_uu_tien_ten_vn"  : "Mức độ ưu tiên",
+    "dm_muc_do_uu_tien_diem"    : "Điểm",
+    "dm_muc_do_uu_tien_su_dung" : "Trạng thái sử dụng",
+
+
+    "dm_tieu_chi_danh_gia_khac"  : "TIÊU CHÍ ĐÁNH GIÁ KHÁC",
+    "dm_tieu_chi_danh_gia_khac_ten_vn"  : "Tiêu chí đánh giá khác",
+    "dm_tieu_chi_danh_gia_khac_diem"    : "Điểm",
+    "dm_tieu_chi_danh_gia_khac_su_dung" : "Trạng thái sử dụng",
+
+
+    "dm_vai_tro"  : "VAI TRÒ",
+    "dm_vai_tro_ten_vn"  : "Vai trò",
+
+
+    "dm_thong_tin_diem_danh_gia"  : "THÔNG TIN ĐIỂM ĐÁNH GIÁ",
+    "dm_thong_tin_diem_danh_gia_ma"  : "Mã điểm đánh giá",
+    "dm_thong_tin_diem_danh_gia_ten_vn"  : "Tên điểm đánh giá",
+    "dm_thong_tin_diem_danh_gia_muc_diem_cong_toi_da"    : "Mức điểm đánh giá tối đa",
+    "dm_thong_tin_diem_danh_gia_su_dung" : "Trạng thái sử dụng",
+    "dm_thong_tin_diem_danh_gia_phan_loai" : "Phân loại",
+
+
+    "dm_loai_diem_danh_gia"  : "LOẠI ĐIỂM ĐÁNH GIÁ",
+    "dm_loai_diem_danh_gia_ten_vn"  : "Loại điểm",
+
+
+    "ql_dang_ky_trong_so"  : "ĐĂNG KÝ TRỌNG SỐ",
+    "ql_dang_ky_trong_so_loai_danh_gia"  : "Loại đánh giá",
+    "dm_loai_cong_viec_ten"  : "Loại công việc",
+    "ql_dang_ky_trong_so_diem"    : "Điểm",
+    "ql_dang_ky_trong_so_khong_danh_gia" : "Không đánh giá",
+
+
+    "user"          : "QUẢN LÝ NGƯỜI DÙNG",
+    "user_name"     : "Tên đăng nhập",
+    "user_code"     : "Mã cán bộ",
+    "user_ho_ten"   : "Họ và tên",
+    "user_active"   : "Kích hoạt",
+    "dm_don_vi_ten_vn"   : "Đơn vị",
+    "dm_nhom_ten_vn"   : "Nhóm",
+    "user_phu_trach"   : "Phụ trách đánh giá",
+
+
+    "dsng" : "ĐÁNH GIÁ NĂNG SUẤT LAO ĐỘNG",
+    "tong_diem_danh_gia_cn" : "Tổng điểm",
+    "tong_diem_danh_gia_ql" : "Tổng điểm Quản lý",
+    "tong_diem_cong_cn" : "Tổng điểm cộng",
+    "tong_diem_cong_ql" : "Tổng điểm cộng Quản lý",
+    "tong_diem_tru_cn" : "Tổng điểm trừ",
+    "tong_diem_tru_ql" : "Tổng điểm trừ Quản lý",
+
+    "ql_thoi_gian_danh_gia_nang_suat"  : "THIẾT LẬP THỜI GIAN ĐÁNH GIÁ NĂNG SUẤT",
+    "ql_ky_danh_gia_nang_suat"  : "Kỳ đánh giá",
+    "ql_thoi_gian_danh_gia_tong_so_gio"  : "Tổng số giờ",
+    "ql_thoi_gian_danh_gia_ngay_het_han_ca_nhan"    : "Ngày hết hạn cá nhân",
+    "ql_thoi_gian_danh_gia_ngay_het_han_quan_ly" : "Ngày hết hạn quản lý",
+    "ql_thoi_gian_danh_gia_ngay_het_han_bo_phan" : "Ngày hết hạn bộ phận",
+    "ql_thoi_gian_danh_gia_tu_ngay" : "Từ ngày",
+    "ql_thoi_gian_danh_gia_den_ngay" : "Đến ngày",
+    "ql_thoi_gian_danh_gia_tu_ngay_den_ngay" : "Từ ngày - Đến ngày",
+    "ql_thoi_gian_danh_gia_thang_hien_tai" : "Tháng hiện tại"
+}
